@@ -4,7 +4,6 @@
 
 * [Description](#description)
 * [Tech stack](#tech-stack)
-* [How to configure](#how-to-configure)
 
 ## Description
 
