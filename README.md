@@ -8,7 +8,7 @@
 
 ## Description
 
-This project is the backend part of Github Gist clone.\
+This project is the backend part of GitHub Gist clone.\
 The purpose of creating this project is to learn backend development in the Go language.
 
 ## Tech stack
