@@ -1,0 +1,11 @@
+db:
+  url: mongodb://root:root@mongo:27017
+
+server:
+  port: 8080
+
+log:
+  path: gist-clone.log
+
+gin:
+  mode: debug
